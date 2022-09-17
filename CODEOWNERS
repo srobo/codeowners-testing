@@ -6,3 +6,6 @@ turbo-encabulator/* @trickeydan @raccube
 
 just-trickeydan/* @trickeydan
 just-raccube/* @raccube
+
+# Explicitly unowned
+unowned/*
